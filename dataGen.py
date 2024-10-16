@@ -7,7 +7,7 @@ import time
 import time
 
 # Define the MSK Serverless bootstrap servers and topic
-bootstrap_servers = 'boot-xn40mjet.c3.kafka-serverless.us-west-2.amazonaws.com:9098'
+bootstrap_servers = 'xxxx'
 topic = 'mycar'
 
 # Create a token provider for MSK IAM authentication
