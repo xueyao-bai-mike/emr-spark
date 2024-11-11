@@ -55,4 +55,3 @@ if __name__ == "__main__":
 
 # Close the producer when done
 producer.close()
-
